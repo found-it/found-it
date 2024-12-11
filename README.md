@@ -3,14 +3,13 @@
 My name is James Petersen and I like to write code and watch it run.
 
 - 🔭 Some skills I’m currently working on ...
+  * rust
+  * hypervisors
   * kubernetes
   * terraform
-  * golang
-  * python
 
 - 🌱 I’m currently learning ...
   * distributed system design
-  * rust
   * systems performance (shout out Brendan Gregg)
 <!--
 **found-it/found-it** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
